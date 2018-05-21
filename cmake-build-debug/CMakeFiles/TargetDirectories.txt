@@ -1,0 +1,3 @@
+/home/bono/CLionProjects/CodingQuestions/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bono/CLionProjects/CodingQuestions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bono/CLionProjects/CodingQuestions/cmake-build-debug/CMakeFiles/CodingQuestions.dir
