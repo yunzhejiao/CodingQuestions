@@ -8,7 +8,7 @@
 #endif //CODINGQUESTIONS_REMOVE_DUPES_H
 
 #include <stdio.h>
+#include <stdbool.h>
 
-void remove_dupes();
+bool contains_target(int *arr1, int *arr2, int target);
 
-void test_remove_dupes();

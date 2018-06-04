@@ -2,11 +2,9 @@
 // Created by bono on 5/21/18.
 //
 
-#include <assert.h>
-#include "remove-dupes.h"
+#include "contains_target.h"
 
-void test_remove_dupes(){
-    assert(1<2);
-    remove_dupes();
-    printf("Successful test!\n");
+bool contains_target(int *arr1, int *arr2, int target) 
+{
+    return true;
 }

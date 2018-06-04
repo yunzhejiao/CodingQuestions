@@ -9,7 +9,7 @@ CC = gcc
 #  -Wall turns on most but not all compilier warnings
 #  -Werror makes all warnings into errors
 # -std=c99 use C99 base standard
-CFLAGS = -g -Wall -Werror -std=c99
+CFLAGS = -g -Wall -std=c99
 # Explicitly tell Make that the following special targets are phony,
 # thus such targets are not real files
 .PHONY: all depend clean
@@ -22,7 +22,7 @@ all:  clean run_test_arrays
 
 
 run_test_arrays: test_arrays
-   ./$(TEST_MAIN)
+	./$(TEST_MAIN)
 
 
 test_arrays: test_arrays.o contains_target.o
