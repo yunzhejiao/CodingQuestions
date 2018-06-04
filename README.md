@@ -1,4 +1,4 @@
-# CS5900TechInterviews
+# CodingQuestions
 A course on how to effectively do a technical interview. This is a weekly course that meets once a week for two hours. 
 This course uses the following resources (though not required):
 
