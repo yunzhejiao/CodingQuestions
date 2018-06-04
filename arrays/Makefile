@@ -18,7 +18,7 @@ TEST_MAIN = test_arrays_main
 
 # Targets
 # 'all' target must be the first target listed in this Makefile
-all:  run_test_arrays
+all:  clean run_test_arrays
 
 
 run_test_arrays: test_arrays
